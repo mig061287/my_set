@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my_set/static/css/main.d7a488ba.chunk.css",
+    "main.js": "/my_set/static/js/main.de919777.chunk.js",
+    "main.js.map": "/my_set/static/js/main.de919777.chunk.js.map",
+    "runtime-main.js": "/my_set/static/js/runtime-main.3be67c68.js",
+    "runtime-main.js.map": "/my_set/static/js/runtime-main.3be67c68.js.map",
+    "static/js/2.d33dc70a.chunk.js": "/my_set/static/js/2.d33dc70a.chunk.js",
+    "static/js/2.d33dc70a.chunk.js.map": "/my_set/static/js/2.d33dc70a.chunk.js.map",
+    "static/css/3.bb94b0bb.chunk.css": "/my_set/static/css/3.bb94b0bb.chunk.css",
+    "static/js/3.30914f32.chunk.js": "/my_set/static/js/3.30914f32.chunk.js",
+    "static/js/3.30914f32.chunk.js.map": "/my_set/static/js/3.30914f32.chunk.js.map",
+    "static/css/4.3198c570.chunk.css": "/my_set/static/css/4.3198c570.chunk.css",
+    "static/js/4.1df4f73b.chunk.js": "/my_set/static/js/4.1df4f73b.chunk.js",
+    "static/js/4.1df4f73b.chunk.js.map": "/my_set/static/js/4.1df4f73b.chunk.js.map",
+    "static/css/5.b3ca65e5.chunk.css": "/my_set/static/css/5.b3ca65e5.chunk.css",
+    "static/js/5.c4ebcba2.chunk.js": "/my_set/static/js/5.c4ebcba2.chunk.js",
+    "static/js/5.c4ebcba2.chunk.js.map": "/my_set/static/js/5.c4ebcba2.chunk.js.map",
+    "static/js/6.cd7d0525.chunk.js": "/my_set/static/js/6.cd7d0525.chunk.js",
+    "static/js/6.cd7d0525.chunk.js.map": "/my_set/static/js/6.cd7d0525.chunk.js.map",
+    "index.html": "/my_set/index.html",
+    "static/css/3.bb94b0bb.chunk.css.map": "/my_set/static/css/3.bb94b0bb.chunk.css.map",
+    "static/css/4.3198c570.chunk.css.map": "/my_set/static/css/4.3198c570.chunk.css.map",
+    "static/css/5.b3ca65e5.chunk.css.map": "/my_set/static/css/5.b3ca65e5.chunk.css.map",
+    "static/css/main.d7a488ba.chunk.css.map": "/my_set/static/css/main.d7a488ba.chunk.css.map",
+    "static/js/2.d33dc70a.chunk.js.LICENSE.txt": "/my_set/static/js/2.d33dc70a.chunk.js.LICENSE.txt",
+    "static/media/panda_box.65944fea.jpg": "/my_set/static/media/panda_box.65944fea.jpg",
+    "static/media/user-icon.png": "/my_set/static/media/user-icon.46ede5f9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be67c68.js",
+    "static/js/2.d33dc70a.chunk.js",
+    "static/css/main.d7a488ba.chunk.css",
+    "static/js/main.de919777.chunk.js"
+  ]
+}
